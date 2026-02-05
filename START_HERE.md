@@ -339,7 +339,61 @@ https://github.com/jabir-dev788/azure-heights-hotel/pulls
 
 ---
 
-## ❓ Common Questions
+## ❓ Common Questionscd "C:\Users\JABIR ZAKARIYYA\OneDrive\###PROJECTs\P2 HOTEL"
+git init
+git add .
+git commit -m "Initial commit: Azure Heights Hotel v2.0.0"
+git remote add origin https://github.com/YOUR_USERNAME/azure-heights-hotel.git
+git branch -M main
+git push -u origin maincd "C:\Users\JABIR ZAKARIYYA\OneDrive\###PROJECTs\P2 HOTEL"
+git init
+git add .
+git commit -m "Initial commit: Azure Heights Hotel v2.0.0"
+git remote add origin https://github.com/YOUR_USERNAME/azure-heights-hotel.git
+git branch -M main
+git push -u origin maincd "C:\Users\JABIR ZAKARIYYA\OneDrive\###PROJECTs\P2 HOTEL"
+git init
+git add .
+git commit -m "Initial commit: Azure Heights Hotel v2.0.0"
+git remote add origin https://github.com/YOUR_USERNAME/azure-heights-hotel.git
+git branch -M main
+git push -u origin maincd "C:\Users\JABIR ZAKARIYYA\OneDrive\###PROJECTs\P2 HOTEL"
+git init
+git add .
+git commit -m "Initial commit: Azure Heights Hotel v2.0.0"
+git remote add origin https://github.com/YOUR_USERNAME/azure-heights-hotel.git
+git branch -M main
+git push -u origin maincd "C:\Users\JABIR ZAKARIYYA\OneDrive\###PROJECTs\P2 HOTEL"
+git init
+git add .
+git commit -m "Initial commit: Azure Heights Hotel v2.0.0"
+git remote add origin https://github.com/YOUR_USERNAME/azure-heights-hotel.git
+git branch -M main
+git push -u origin maincd "C:\Users\JABIR ZAKARIYYA\OneDrive\###PROJECTs\P2 HOTEL"
+git init
+git add .
+git commit -m "Initial commit: Azure Heights Hotel v2.0.0"
+git remote add origin https://github.com/YOUR_USERNAME/azure-heights-hotel.git
+git branch -M main
+git push -u origin maincd "C:\Users\JABIR ZAKARIYYA\OneDrive\###PROJECTs\P2 HOTEL"
+git init
+git add .
+git commit -m "Initial commit: Azure Heights Hotel v2.0.0"
+git remote add origin https://github.com/YOUR_USERNAME/azure-heights-hotel.git
+git branch -M main
+git push -u origin maincd "C:\Users\JABIR ZAKARIYYA\OneDrive\###PROJECTs\P2 HOTEL"
+git init
+git add .
+git commit -m "Initial commit: Azure Heights Hotel v2.0.0"
+git remote add origin https://github.com/YOUR_USERNAME/azure-heights-hotel.git
+git branch -M main
+git push -u origin maincd "C:\Users\JABIR ZAKARIYYA\OneDrive\###PROJECTs\P2 HOTEL"
+git init
+git add .
+git commit -m "Initial commit: Azure Heights Hotel v2.0.0"
+git remote add origin https://github.com/YOUR_USERNAME/azure-heights-hotel.git
+git branch -M main
+git push -u origin main
 
 **Q: Do I need Git installed?**
 A: For command line. Or use GitHub Desktop (no Git needed).
